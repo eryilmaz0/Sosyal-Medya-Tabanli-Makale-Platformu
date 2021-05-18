@@ -12,7 +12,7 @@
  Proje oldukça geniş çaplıdır ve bir çok kütüphane kullanılmıştır. 
 
 
- ## Projenin Yapıları
+ ## Proje Yapıları
 
  Ana başlıklar halinde bahsedecek olursak, Projenin çekirdek yapısı makale paylaşım platformu olarak tasarlanmıştır. Projeyi diğer makale paylaşım platformlarından ayıran başlıklar şu şekilde sıralanabilir: 
 
