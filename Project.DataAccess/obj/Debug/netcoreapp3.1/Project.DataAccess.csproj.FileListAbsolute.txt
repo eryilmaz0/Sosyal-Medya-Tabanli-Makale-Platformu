@@ -1,0 +1,56 @@
+C:\Users\eren_\Desktop\PROJELER\Project\Project.DataAccess\bin\Debug\netcoreapp3.1\Project.DataAccess.deps.json
+C:\Users\eren_\Desktop\PROJELER\Project\Project.DataAccess\bin\Debug\netcoreapp3.1\Project.DataAccess.dll
+C:\Users\eren_\Desktop\PROJELER\Project\Project.DataAccess\bin\Debug\netcoreapp3.1\Project.DataAccess.pdb
+C:\Users\eren_\Desktop\PROJELER\Project\Project.DataAccess\obj\Debug\netcoreapp3.1\Project.DataAccess.csprojAssemblyReference.cache
+C:\Users\eren_\Desktop\PROJELER\Project\Project.DataAccess\obj\Debug\netcoreapp3.1\Project.DataAccess.AssemblyInfoInputs.cache
+C:\Users\eren_\Desktop\PROJELER\Project\Project.DataAccess\obj\Debug\netcoreapp3.1\Project.DataAccess.AssemblyInfo.cs
+C:\Users\eren_\Desktop\PROJELER\Project\Project.DataAccess\obj\Debug\netcoreapp3.1\Project.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\eren_\Desktop\PROJELER\Project\Project.DataAccess\obj\Debug\netcoreapp3.1\Project.DataAccess.dll
+C:\Users\eren_\Desktop\PROJELER\Project\Project.DataAccess\obj\Debug\netcoreapp3.1\Project.DataAccess.pdb
+C:\Users\eren_\Desktop\PROJELER\Project\Project.DataAccess\bin\Debug\netcoreapp3.1\Project.Core.dll
+C:\Users\eren_\Desktop\PROJELER\Project\Project.DataAccess\bin\Debug\netcoreapp3.1\Project.Entities.dll
+C:\Users\eren_\Desktop\PROJELER\Project\Project.DataAccess\bin\Debug\netcoreapp3.1\Project.Core.pdb
+C:\Users\eren_\Desktop\PROJELER\Project\Project.DataAccess\bin\Debug\netcoreapp3.1\Project.Entities.pdb
+C:\Users\eren_\Desktop\PROJELER\Project\Project.DataAccess\obj\Debug\netcoreapp3.1\Project.DataAccess.csproj.CopyComplete
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.DataAccess\bin\Debug\netcoreapp3.1\Project.DataAccess.deps.json
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.DataAccess\bin\Debug\netcoreapp3.1\Project.DataAccess.dll
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.DataAccess\bin\Debug\netcoreapp3.1\Project.DataAccess.pdb
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.DataAccess\bin\Debug\netcoreapp3.1\Project.Core.dll
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.DataAccess\bin\Debug\netcoreapp3.1\Project.Entities.dll
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.DataAccess\bin\Debug\netcoreapp3.1\Project.Core.pdb
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.DataAccess\bin\Debug\netcoreapp3.1\Project.Entities.pdb
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.DataAccess\obj\Debug\netcoreapp3.1\Project.DataAccess.csprojAssemblyReference.cache
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.DataAccess\obj\Debug\netcoreapp3.1\Project.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.DataAccess\obj\Debug\netcoreapp3.1\Project.DataAccess.AssemblyInfo.cs
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.DataAccess\obj\Debug\netcoreapp3.1\Project.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.DataAccess\obj\Debug\netcoreapp3.1\Project.DataAccess.csproj.CopyComplete
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.DataAccess\obj\Debug\netcoreapp3.1\Project.DataAccess.dll
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.DataAccess\obj\Debug\netcoreapp3.1\Project.DataAccess.pdb
+C:\Users\Batuhan\bitirme-projesi\Project\Project.DataAccess\bin\Debug\netcoreapp3.1\Project.DataAccess.deps.json
+C:\Users\Batuhan\bitirme-projesi\Project\Project.DataAccess\bin\Debug\netcoreapp3.1\Project.DataAccess.dll
+C:\Users\Batuhan\bitirme-projesi\Project\Project.DataAccess\bin\Debug\netcoreapp3.1\Project.DataAccess.pdb
+C:\Users\Batuhan\bitirme-projesi\Project\Project.DataAccess\bin\Debug\netcoreapp3.1\Project.Core.dll
+C:\Users\Batuhan\bitirme-projesi\Project\Project.DataAccess\bin\Debug\netcoreapp3.1\Project.Entities.dll
+C:\Users\Batuhan\bitirme-projesi\Project\Project.DataAccess\bin\Debug\netcoreapp3.1\Project.Core.pdb
+C:\Users\Batuhan\bitirme-projesi\Project\Project.DataAccess\bin\Debug\netcoreapp3.1\Project.Entities.pdb
+C:\Users\Batuhan\bitirme-projesi\Project\Project.DataAccess\obj\Debug\netcoreapp3.1\Project.DataAccess.csprojAssemblyReference.cache
+C:\Users\Batuhan\bitirme-projesi\Project\Project.DataAccess\obj\Debug\netcoreapp3.1\Project.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Batuhan\bitirme-projesi\Project\Project.DataAccess\obj\Debug\netcoreapp3.1\Project.DataAccess.AssemblyInfo.cs
+C:\Users\Batuhan\bitirme-projesi\Project\Project.DataAccess\obj\Debug\netcoreapp3.1\Project.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\bitirme-projesi\Project\Project.DataAccess\obj\Debug\netcoreapp3.1\Project.DataAccess.csproj.CopyComplete
+C:\Users\Batuhan\bitirme-projesi\Project\Project.DataAccess\obj\Debug\netcoreapp3.1\Project.DataAccess.dll
+C:\Users\Batuhan\bitirme-projesi\Project\Project.DataAccess\obj\Debug\netcoreapp3.1\Project.DataAccess.pdb
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.DataAccess\bin\Debug\netcoreapp3.1\Project.DataAccess.deps.json
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.DataAccess\bin\Debug\netcoreapp3.1\Project.DataAccess.dll
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.DataAccess\bin\Debug\netcoreapp3.1\Project.DataAccess.pdb
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.DataAccess\bin\Debug\netcoreapp3.1\Project.Core.dll
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.DataAccess\bin\Debug\netcoreapp3.1\Project.Entities.dll
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.DataAccess\bin\Debug\netcoreapp3.1\Project.Core.pdb
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.DataAccess\bin\Debug\netcoreapp3.1\Project.Entities.pdb
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.DataAccess\obj\Debug\netcoreapp3.1\Project.DataAccess.csprojAssemblyReference.cache
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.DataAccess\obj\Debug\netcoreapp3.1\Project.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.DataAccess\obj\Debug\netcoreapp3.1\Project.DataAccess.AssemblyInfo.cs
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.DataAccess\obj\Debug\netcoreapp3.1\Project.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.DataAccess\obj\Debug\netcoreapp3.1\Project.DataAccess.csproj.CopyComplete
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.DataAccess\obj\Debug\netcoreapp3.1\Project.DataAccess.dll
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.DataAccess\obj\Debug\netcoreapp3.1\Project.DataAccess.pdb

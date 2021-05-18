@@ -1,0 +1,10 @@
+C:\Users\eren_\Desktop\PROJELER\Project\ProjectML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\eren_\Desktop\PROJELER\Project\ProjectML.Model\bin\Debug\netstandard2.0\ProjectML.Model.deps.json
+C:\Users\eren_\Desktop\PROJELER\Project\ProjectML.Model\bin\Debug\netstandard2.0\ProjectML.Model.dll
+C:\Users\eren_\Desktop\PROJELER\Project\ProjectML.Model\bin\Debug\netstandard2.0\ProjectML.Model.pdb
+C:\Users\eren_\Desktop\PROJELER\Project\ProjectML.Model\obj\Debug\netstandard2.0\ProjectML.Model.csprojAssemblyReference.cache
+C:\Users\eren_\Desktop\PROJELER\Project\ProjectML.Model\obj\Debug\netstandard2.0\ProjectML.Model.AssemblyInfoInputs.cache
+C:\Users\eren_\Desktop\PROJELER\Project\ProjectML.Model\obj\Debug\netstandard2.0\ProjectML.Model.AssemblyInfo.cs
+C:\Users\eren_\Desktop\PROJELER\Project\ProjectML.Model\obj\Debug\netstandard2.0\ProjectML.Model.csproj.CoreCompileInputs.cache
+C:\Users\eren_\Desktop\PROJELER\Project\ProjectML.Model\obj\Debug\netstandard2.0\ProjectML.Model.dll
+C:\Users\eren_\Desktop\PROJELER\Project\ProjectML.Model\obj\Debug\netstandard2.0\ProjectML.Model.pdb

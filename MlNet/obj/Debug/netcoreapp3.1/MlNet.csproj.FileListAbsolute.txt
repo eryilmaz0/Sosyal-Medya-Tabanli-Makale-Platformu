@@ -1,0 +1,16 @@
+C:\Users\eren_\Desktop\PROJELER\Project\MlNet\bin\Debug\netcoreapp3.1\MLModel.zip
+C:\Users\eren_\Desktop\PROJELER\Project\MlNet\bin\Debug\netcoreapp3.1\MlNet.deps.json
+C:\Users\eren_\Desktop\PROJELER\Project\MlNet\bin\Debug\netcoreapp3.1\MlNet.dll
+C:\Users\eren_\Desktop\PROJELER\Project\MlNet\bin\Debug\netcoreapp3.1\MlNet.pdb
+C:\Users\eren_\Desktop\PROJELER\Project\MlNet\bin\Debug\netcoreapp3.1\ProjectML.Model.dll
+C:\Users\eren_\Desktop\PROJELER\Project\MlNet\bin\Debug\netcoreapp3.1\ProjectML.Model.pdb
+C:\Users\eren_\Desktop\PROJELER\Project\MlNet\obj\Debug\netcoreapp3.1\MlNet.csprojAssemblyReference.cache
+C:\Users\eren_\Desktop\PROJELER\Project\MlNet\obj\Debug\netcoreapp3.1\MlNet.AssemblyInfoInputs.cache
+C:\Users\eren_\Desktop\PROJELER\Project\MlNet\obj\Debug\netcoreapp3.1\MlNet.AssemblyInfo.cs
+C:\Users\eren_\Desktop\PROJELER\Project\MlNet\obj\Debug\netcoreapp3.1\MlNet.csproj.CoreCompileInputs.cache
+C:\Users\eren_\Desktop\PROJELER\Project\MlNet\obj\Debug\netcoreapp3.1\MlNet.csproj.CopyComplete
+C:\Users\eren_\Desktop\PROJELER\Project\MlNet\obj\Debug\netcoreapp3.1\MlNet.dll
+C:\Users\eren_\Desktop\PROJELER\Project\MlNet\obj\Debug\netcoreapp3.1\MlNet.pdb
+C:\Users\eren_\Desktop\PROJELER\Project\MlNet\bin\Debug\netcoreapp3.1\ProjectML.ConsoleApp.exe
+C:\Users\eren_\Desktop\PROJELER\Project\MlNet\bin\Debug\netcoreapp3.1\ProjectML.ConsoleApp.dll
+C:\Users\eren_\Desktop\PROJELER\Project\MlNet\bin\Debug\netcoreapp3.1\ProjectML.ConsoleApp.pdb

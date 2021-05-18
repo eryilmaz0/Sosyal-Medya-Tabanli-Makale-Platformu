@@ -1,0 +1,72 @@
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.Business.deps.json
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.Business.dll
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.Business.pdb
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Business\obj\Debug\netcoreapp3.1\Project.Business.csprojAssemblyReference.cache
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Business\obj\Debug\netcoreapp3.1\Project.Business.AssemblyInfoInputs.cache
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Business\obj\Debug\netcoreapp3.1\Project.Business.AssemblyInfo.cs
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Business\obj\Debug\netcoreapp3.1\Project.Business.dll
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Business\obj\Debug\netcoreapp3.1\Project.Business.pdb
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.Core.dll
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.Core.pdb
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Business\obj\Debug\netcoreapp3.1\Project.Business.csproj.CopyComplete
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.Entities.dll
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.Entities.pdb
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Business\obj\Debug\netcoreapp3.1\Project.Business.csproj.CoreCompileInputs.cache
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.DataAccess.dll
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.DataAccess.pdb
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.Business.deps.json
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.Business.dll
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.Business.pdb
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.Core.dll
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.DataAccess.dll
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.Entities.dll
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.Core.pdb
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.DataAccess.pdb
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.Entities.pdb
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.Business\obj\Debug\netcoreapp3.1\Project.Business.csprojAssemblyReference.cache
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.Business\obj\Debug\netcoreapp3.1\Project.Business.AssemblyInfoInputs.cache
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.Business\obj\Debug\netcoreapp3.1\Project.Business.AssemblyInfo.cs
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.Business\obj\Debug\netcoreapp3.1\Project.Business.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.Business\obj\Debug\netcoreapp3.1\Project.Business.csproj.CopyComplete
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.Business\obj\Debug\netcoreapp3.1\Project.Business.dll
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.Business\obj\Debug\netcoreapp3.1\Project.Business.pdb
+C:\Users\Batuhan\bitirme-projesi\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.Business.deps.json
+C:\Users\Batuhan\bitirme-projesi\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.Business.dll
+C:\Users\Batuhan\bitirme-projesi\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.Business.pdb
+C:\Users\Batuhan\bitirme-projesi\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.Core.dll
+C:\Users\Batuhan\bitirme-projesi\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.DataAccess.dll
+C:\Users\Batuhan\bitirme-projesi\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.Entities.dll
+C:\Users\Batuhan\bitirme-projesi\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.Core.pdb
+C:\Users\Batuhan\bitirme-projesi\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.DataAccess.pdb
+C:\Users\Batuhan\bitirme-projesi\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.Entities.pdb
+C:\Users\Batuhan\bitirme-projesi\Project\Project.Business\obj\Debug\netcoreapp3.1\Project.Business.csprojAssemblyReference.cache
+C:\Users\Batuhan\bitirme-projesi\Project\Project.Business\obj\Debug\netcoreapp3.1\Project.Business.AssemblyInfoInputs.cache
+C:\Users\Batuhan\bitirme-projesi\Project\Project.Business\obj\Debug\netcoreapp3.1\Project.Business.AssemblyInfo.cs
+C:\Users\Batuhan\bitirme-projesi\Project\Project.Business\obj\Debug\netcoreapp3.1\Project.Business.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\bitirme-projesi\Project\Project.Business\obj\Debug\netcoreapp3.1\Project.Business.csproj.CopyComplete
+C:\Users\Batuhan\bitirme-projesi\Project\Project.Business\obj\Debug\netcoreapp3.1\Project.Business.dll
+C:\Users\Batuhan\bitirme-projesi\Project\Project.Business\obj\Debug\netcoreapp3.1\Project.Business.pdb
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.Business.deps.json
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.Business.dll
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.Business.pdb
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.Core.dll
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.DataAccess.dll
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.Entities.dll
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.Core.pdb
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.DataAccess.pdb
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.Business\bin\Debug\netcoreapp3.1\Project.Entities.pdb
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.Business\obj\Debug\netcoreapp3.1\Project.Business.csprojAssemblyReference.cache
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.Business\obj\Debug\netcoreapp3.1\Project.Business.AssemblyInfoInputs.cache
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.Business\obj\Debug\netcoreapp3.1\Project.Business.AssemblyInfo.cs
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.Business\obj\Debug\netcoreapp3.1\Project.Business.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.Business\obj\Debug\netcoreapp3.1\Project.Business.csproj.CopyComplete
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.Business\obj\Debug\netcoreapp3.1\Project.Business.dll
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.Business\obj\Debug\netcoreapp3.1\Project.Business.pdb
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Business\bin\Debug\netcoreapp3.1\MLModel.zip
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Business\bin\Debug\netcoreapp3.1\ProjectML.ConsoleApp.exe
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Business\bin\Debug\netcoreapp3.1\ProjectML.ConsoleApp.dll
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Business\bin\Debug\netcoreapp3.1\ProjectML.Model.dll
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Business\bin\Debug\netcoreapp3.1\ProjectML.ConsoleApp.pdb
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Business\bin\Debug\netcoreapp3.1\ProjectML.Model.pdb
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Business\bin\Debug\netcoreapp3.1\MlNet.dll
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Business\bin\Debug\netcoreapp3.1\MlNet.pdb

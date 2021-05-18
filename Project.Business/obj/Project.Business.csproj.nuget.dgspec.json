@@ -1,0 +1,532 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\Project.Business\\Project.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\MlNet\\MlNet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\MlNet\\MlNet.csproj",
+        "projectName": "MlNet",
+        "projectPath": "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\MlNet\\MlNet.csproj",
+        "packagesPath": "C:\\Users\\eren_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\MlNet\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\eren_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\ProjectML.ConsoleApp\\ProjectML.ConsoleApp.csproj": {
+                "projectPath": "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\ProjectML.ConsoleApp\\ProjectML.ConsoleApp.csproj"
+              },
+              "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\ProjectML.Model\\ProjectML.Model.csproj": {
+                "projectPath": "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\ProjectML.Model\\ProjectML.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\Project.Business\\Project.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\Project.Business\\Project.Business.csproj",
+        "projectName": "Project.Business",
+        "projectPath": "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\Project.Business\\Project.Business.csproj",
+        "packagesPath": "C:\\Users\\eren_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\Project.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\eren_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\MlNet\\MlNet.csproj": {
+                "projectPath": "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\MlNet\\MlNet.csproj"
+              },
+              "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\Project.Core\\Project.Core.csproj": {
+                "projectPath": "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\Project.Core\\Project.Core.csproj"
+              },
+              "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\Project.DataAccess\\Project.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\Project.DataAccess\\Project.DataAccess.csproj"
+              },
+              "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\Project.Entities\\Project.Entities.csproj": {
+                "projectPath": "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\Project.Entities\\Project.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Enums.NET": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.SignalR": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\Project.Core\\Project.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\Project.Core\\Project.Core.csproj",
+        "projectName": "Project.Core",
+        "projectPath": "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\Project.Core\\Project.Core.csproj",
+        "packagesPath": "C:\\Users\\eren_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\Project.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\eren_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\Project.DataAccess\\Project.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\Project.DataAccess\\Project.DataAccess.csproj",
+        "projectName": "Project.DataAccess",
+        "projectPath": "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\Project.DataAccess\\Project.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\eren_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\Project.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\eren_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\Project.Core\\Project.Core.csproj": {
+                "projectPath": "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\Project.Core\\Project.Core.csproj"
+              },
+              "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\Project.Entities\\Project.Entities.csproj": {
+                "projectPath": "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\Project.Entities\\Project.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\Project.Entities\\Project.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\Project.Entities\\Project.Entities.csproj",
+        "projectName": "Project.Entities",
+        "projectPath": "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\Project.Entities\\Project.Entities.csproj",
+        "packagesPath": "C:\\Users\\eren_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\Project.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\eren_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\Project.Core\\Project.Core.csproj": {
+                "projectPath": "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\Project.Core\\Project.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\ProjectML.ConsoleApp\\ProjectML.ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\ProjectML.ConsoleApp\\ProjectML.ConsoleApp.csproj",
+        "projectName": "ProjectML.ConsoleApp",
+        "projectPath": "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\ProjectML.ConsoleApp\\ProjectML.ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\eren_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\ProjectML.ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\eren_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\ProjectML.Model\\ProjectML.Model.csproj": {
+                "projectPath": "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\ProjectML.Model\\ProjectML.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.5.0-preview2, )"
+            },
+            "Microsoft.ML.LightGBM": {
+              "target": "Package",
+              "version": "[1.5.0-preview2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\ProjectML.Model\\ProjectML.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\ProjectML.Model\\ProjectML.Model.csproj",
+        "projectName": "ProjectML.Model",
+        "projectPath": "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\ProjectML.Model\\ProjectML.Model.csproj",
+        "packagesPath": "C:\\Users\\eren_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eren_\\Desktop\\PROJELER\\Project\\ProjectML.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\eren_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.5.0-preview2, )"
+            },
+            "Microsoft.ML.LightGBM": {
+              "target": "Package",
+              "version": "[1.5.0-preview2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

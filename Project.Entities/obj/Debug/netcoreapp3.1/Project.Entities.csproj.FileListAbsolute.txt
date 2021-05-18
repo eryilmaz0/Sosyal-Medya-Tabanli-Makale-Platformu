@@ -1,0 +1,60 @@
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.csprojAssemblyReference.cache
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.AssemblyInfoInputs.cache
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.AssemblyInfo.cs
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Entities\bin\Debug\netcoreapp3.1\Project.Entities.deps.json
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Entities\bin\Debug\netcoreapp3.1\Project.Entities.runtimeconfig.json
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Entities\bin\Debug\netcoreapp3.1\Project.Entities.runtimeconfig.dev.json
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Entities\bin\Debug\netcoreapp3.1\Project.Entities.dll
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Entities\bin\Debug\netcoreapp3.1\Project.Entities.pdb
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.csproj.CoreCompileInputs.cache
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.dll
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.pdb
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.genruntimeconfig.cache
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Entities\bin\Debug\netcoreapp3.1\Project.Core.dll
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Entities\bin\Debug\netcoreapp3.1\Project.Core.pdb
+C:\Users\eren_\Desktop\PROJELER\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.csproj.CopyComplete
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.Entities\bin\Debug\netcoreapp3.1\Project.Entities.deps.json
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.Entities\bin\Debug\netcoreapp3.1\Project.Entities.runtimeconfig.json
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.Entities\bin\Debug\netcoreapp3.1\Project.Entities.runtimeconfig.dev.json
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.Entities\bin\Debug\netcoreapp3.1\Project.Entities.dll
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.Entities\bin\Debug\netcoreapp3.1\Project.Entities.pdb
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.Entities\bin\Debug\netcoreapp3.1\Project.Core.dll
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.Entities\bin\Debug\netcoreapp3.1\Project.Core.pdb
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.csprojAssemblyReference.cache
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.AssemblyInfoInputs.cache
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.AssemblyInfo.cs
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.csproj.CopyComplete
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.dll
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.pdb
+C:\Users\Batuhan\Desktop\son hali proje\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.genruntimeconfig.cache
+C:\Users\Batuhan\bitirme-projesi\Project\Project.Entities\bin\Debug\netcoreapp3.1\Project.Entities.deps.json
+C:\Users\Batuhan\bitirme-projesi\Project\Project.Entities\bin\Debug\netcoreapp3.1\Project.Entities.runtimeconfig.json
+C:\Users\Batuhan\bitirme-projesi\Project\Project.Entities\bin\Debug\netcoreapp3.1\Project.Entities.runtimeconfig.dev.json
+C:\Users\Batuhan\bitirme-projesi\Project\Project.Entities\bin\Debug\netcoreapp3.1\Project.Entities.dll
+C:\Users\Batuhan\bitirme-projesi\Project\Project.Entities\bin\Debug\netcoreapp3.1\Project.Entities.pdb
+C:\Users\Batuhan\bitirme-projesi\Project\Project.Entities\bin\Debug\netcoreapp3.1\Project.Core.dll
+C:\Users\Batuhan\bitirme-projesi\Project\Project.Entities\bin\Debug\netcoreapp3.1\Project.Core.pdb
+C:\Users\Batuhan\bitirme-projesi\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.csprojAssemblyReference.cache
+C:\Users\Batuhan\bitirme-projesi\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.AssemblyInfoInputs.cache
+C:\Users\Batuhan\bitirme-projesi\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.AssemblyInfo.cs
+C:\Users\Batuhan\bitirme-projesi\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\bitirme-projesi\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.csproj.CopyComplete
+C:\Users\Batuhan\bitirme-projesi\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.dll
+C:\Users\Batuhan\bitirme-projesi\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.pdb
+C:\Users\Batuhan\bitirme-projesi\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.genruntimeconfig.cache
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.Entities\bin\Debug\netcoreapp3.1\Project.Entities.deps.json
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.Entities\bin\Debug\netcoreapp3.1\Project.Entities.runtimeconfig.json
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.Entities\bin\Debug\netcoreapp3.1\Project.Entities.runtimeconfig.dev.json
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.Entities\bin\Debug\netcoreapp3.1\Project.Entities.dll
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.Entities\bin\Debug\netcoreapp3.1\Project.Entities.pdb
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.Entities\bin\Debug\netcoreapp3.1\Project.Core.dll
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.Entities\bin\Debug\netcoreapp3.1\Project.Core.pdb
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.csprojAssemblyReference.cache
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.AssemblyInfoInputs.cache
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.AssemblyInfo.cs
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.csproj.CopyComplete
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.dll
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.pdb
+C:\Users\Batuhan\Desktop\Couldnt-Find-d82edb0ac8e637f5dc815070df575de332729e36\Project\Project.Entities\obj\Debug\netcoreapp3.1\Project.Entities.genruntimeconfig.cache
